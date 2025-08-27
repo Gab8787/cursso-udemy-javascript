@@ -1,1 +1,5 @@
-let user = parseInt(prompt('Digite um numero: '))
+
+
+function muda(){
+    document.getElementById('foto').src = 'caseiro.jpeg'
+}
