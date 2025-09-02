@@ -1,4 +1,4 @@
-function funcao(a, b = 2, c = 4){
-console.log(a+b+c)
+function conta (operador, acumulador, ...numeros){
+console.log(arguments)
 }
-funcao(2,10);
+conta('+', 0, 20,30,40,50);             
