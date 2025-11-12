@@ -68,3 +68,9 @@ background: var(--primary-color-dark)
 .calculadora{
     width: 400px;
 }
+
+
+.error-text{
+    font-size: 12px;
+    color: red;
+}
