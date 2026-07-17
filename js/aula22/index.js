@@ -1,5 +1,5 @@
 /*
-&& -> AND -> E -> todas as expressoes precisam sser veradeiras para retornar true 
+&& -> AND -> E -> todas as expressoes precisam ser veradeiras para retornar true 
 || -> OR -> OU
 ! -> NOT -> NÃO
 */
